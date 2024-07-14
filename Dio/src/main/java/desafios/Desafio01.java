@@ -1,8 +1,7 @@
 package desafios;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Desafio2 {
+public class Desafio01 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
